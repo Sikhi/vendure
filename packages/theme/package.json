@@ -48,6 +48,6 @@
     "mochawesome": "^6.2.2",
     "mochawesome-merge": "^4.2.0",
     "mochawesome-report-generator": "^5.2.0",
-    "vue-jest": "^4.0.0-0"
+    "vue2-jest": "^27.0.0"
   }
 }
